@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GoogleCalendar</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="titulo">Nombre del evento</string>
+    <string name="irCalendario">Ir al calendario</string>
+    <string name="hora">Hora</string>
+    <string name="fechaIn">Fecha</string>
+
+    <string name="moCred">Modificar/Añadir redenciales</string>
+    <string name="nombre">Nombre de usuario</string>
+    <string name="gmail">Introduzca su Gmail</string>
+    <string name="pass">Introduzca su contraseña</string>
+
+    <string name="mCred">Crendenciales</string>
+
+</resources>
